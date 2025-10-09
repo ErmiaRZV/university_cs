@@ -1,0 +1,14 @@
+/home/ermiarzv/C#-projects/session-2/condition-2/bin/Debug/net9.0/condition-2
+/home/ermiarzv/C#-projects/session-2/condition-2/bin/Debug/net9.0/condition-2.deps.json
+/home/ermiarzv/C#-projects/session-2/condition-2/bin/Debug/net9.0/condition-2.runtimeconfig.json
+/home/ermiarzv/C#-projects/session-2/condition-2/bin/Debug/net9.0/condition-2.dll
+/home/ermiarzv/C#-projects/session-2/condition-2/bin/Debug/net9.0/condition-2.pdb
+/home/ermiarzv/C#-projects/session-2/condition-2/obj/Debug/net9.0/condition-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ermiarzv/C#-projects/session-2/condition-2/obj/Debug/net9.0/condition-2.AssemblyInfoInputs.cache
+/home/ermiarzv/C#-projects/session-2/condition-2/obj/Debug/net9.0/condition-2.AssemblyInfo.cs
+/home/ermiarzv/C#-projects/session-2/condition-2/obj/Debug/net9.0/condition-2.csproj.CoreCompileInputs.cache
+/home/ermiarzv/C#-projects/session-2/condition-2/obj/Debug/net9.0/condition-2.dll
+/home/ermiarzv/C#-projects/session-2/condition-2/obj/Debug/net9.0/refint/condition-2.dll
+/home/ermiarzv/C#-projects/session-2/condition-2/obj/Debug/net9.0/condition-2.pdb
+/home/ermiarzv/C#-projects/session-2/condition-2/obj/Debug/net9.0/condition-2.genruntimeconfig.cache
+/home/ermiarzv/C#-projects/session-2/condition-2/obj/Debug/net9.0/ref/condition-2.dll
