@@ -1,0 +1,14 @@
+/home/ermiarzv/C#-projects/session-3/week/bin/Debug/net9.0/week
+/home/ermiarzv/C#-projects/session-3/week/bin/Debug/net9.0/week.deps.json
+/home/ermiarzv/C#-projects/session-3/week/bin/Debug/net9.0/week.runtimeconfig.json
+/home/ermiarzv/C#-projects/session-3/week/bin/Debug/net9.0/week.dll
+/home/ermiarzv/C#-projects/session-3/week/bin/Debug/net9.0/week.pdb
+/home/ermiarzv/C#-projects/session-3/week/obj/Debug/net9.0/week.GeneratedMSBuildEditorConfig.editorconfig
+/home/ermiarzv/C#-projects/session-3/week/obj/Debug/net9.0/week.AssemblyInfoInputs.cache
+/home/ermiarzv/C#-projects/session-3/week/obj/Debug/net9.0/week.AssemblyInfo.cs
+/home/ermiarzv/C#-projects/session-3/week/obj/Debug/net9.0/week.csproj.CoreCompileInputs.cache
+/home/ermiarzv/C#-projects/session-3/week/obj/Debug/net9.0/week.dll
+/home/ermiarzv/C#-projects/session-3/week/obj/Debug/net9.0/refint/week.dll
+/home/ermiarzv/C#-projects/session-3/week/obj/Debug/net9.0/week.pdb
+/home/ermiarzv/C#-projects/session-3/week/obj/Debug/net9.0/week.genruntimeconfig.cache
+/home/ermiarzv/C#-projects/session-3/week/obj/Debug/net9.0/ref/week.dll

@@ -1,0 +1,14 @@
+/home/ermiarzv/C#-projects/session-3/star/obj/Debug/net9.0/star.GeneratedMSBuildEditorConfig.editorconfig
+/home/ermiarzv/C#-projects/session-3/star/obj/Debug/net9.0/star.AssemblyInfoInputs.cache
+/home/ermiarzv/C#-projects/session-3/star/obj/Debug/net9.0/star.AssemblyInfo.cs
+/home/ermiarzv/C#-projects/session-3/star/obj/Debug/net9.0/star.csproj.CoreCompileInputs.cache
+/home/ermiarzv/C#-projects/session-3/star/bin/Debug/net9.0/star
+/home/ermiarzv/C#-projects/session-3/star/bin/Debug/net9.0/star.deps.json
+/home/ermiarzv/C#-projects/session-3/star/bin/Debug/net9.0/star.runtimeconfig.json
+/home/ermiarzv/C#-projects/session-3/star/bin/Debug/net9.0/star.dll
+/home/ermiarzv/C#-projects/session-3/star/bin/Debug/net9.0/star.pdb
+/home/ermiarzv/C#-projects/session-3/star/obj/Debug/net9.0/star.dll
+/home/ermiarzv/C#-projects/session-3/star/obj/Debug/net9.0/refint/star.dll
+/home/ermiarzv/C#-projects/session-3/star/obj/Debug/net9.0/star.pdb
+/home/ermiarzv/C#-projects/session-3/star/obj/Debug/net9.0/star.genruntimeconfig.cache
+/home/ermiarzv/C#-projects/session-3/star/obj/Debug/net9.0/ref/star.dll

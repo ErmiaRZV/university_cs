@@ -1,0 +1,14 @@
+/home/ermiarzv/C#-projects/session-3/hasel-zarb/obj/Debug/net9.0/hasel-zarb.GeneratedMSBuildEditorConfig.editorconfig
+/home/ermiarzv/C#-projects/session-3/hasel-zarb/obj/Debug/net9.0/hasel-zarb.AssemblyInfoInputs.cache
+/home/ermiarzv/C#-projects/session-3/hasel-zarb/obj/Debug/net9.0/hasel-zarb.AssemblyInfo.cs
+/home/ermiarzv/C#-projects/session-3/hasel-zarb/obj/Debug/net9.0/hasel-zarb.csproj.CoreCompileInputs.cache
+/home/ermiarzv/C#-projects/session-3/hasel-zarb/bin/Debug/net9.0/hasel-zarb
+/home/ermiarzv/C#-projects/session-3/hasel-zarb/bin/Debug/net9.0/hasel-zarb.deps.json
+/home/ermiarzv/C#-projects/session-3/hasel-zarb/bin/Debug/net9.0/hasel-zarb.runtimeconfig.json
+/home/ermiarzv/C#-projects/session-3/hasel-zarb/bin/Debug/net9.0/hasel-zarb.dll
+/home/ermiarzv/C#-projects/session-3/hasel-zarb/bin/Debug/net9.0/hasel-zarb.pdb
+/home/ermiarzv/C#-projects/session-3/hasel-zarb/obj/Debug/net9.0/hasel-zarb.dll
+/home/ermiarzv/C#-projects/session-3/hasel-zarb/obj/Debug/net9.0/refint/hasel-zarb.dll
+/home/ermiarzv/C#-projects/session-3/hasel-zarb/obj/Debug/net9.0/hasel-zarb.pdb
+/home/ermiarzv/C#-projects/session-3/hasel-zarb/obj/Debug/net9.0/hasel-zarb.genruntimeconfig.cache
+/home/ermiarzv/C#-projects/session-3/hasel-zarb/obj/Debug/net9.0/ref/hasel-zarb.dll
