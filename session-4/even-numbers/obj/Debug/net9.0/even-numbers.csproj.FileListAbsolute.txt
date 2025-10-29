@@ -1,0 +1,14 @@
+/home/ermiarzv/C#-projects/session-4/even-numbers/bin/Debug/net9.0/even-numbers
+/home/ermiarzv/C#-projects/session-4/even-numbers/bin/Debug/net9.0/even-numbers.deps.json
+/home/ermiarzv/C#-projects/session-4/even-numbers/bin/Debug/net9.0/even-numbers.runtimeconfig.json
+/home/ermiarzv/C#-projects/session-4/even-numbers/bin/Debug/net9.0/even-numbers.dll
+/home/ermiarzv/C#-projects/session-4/even-numbers/bin/Debug/net9.0/even-numbers.pdb
+/home/ermiarzv/C#-projects/session-4/even-numbers/obj/Debug/net9.0/even-numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/ermiarzv/C#-projects/session-4/even-numbers/obj/Debug/net9.0/even-numbers.AssemblyInfoInputs.cache
+/home/ermiarzv/C#-projects/session-4/even-numbers/obj/Debug/net9.0/even-numbers.AssemblyInfo.cs
+/home/ermiarzv/C#-projects/session-4/even-numbers/obj/Debug/net9.0/even-numbers.csproj.CoreCompileInputs.cache
+/home/ermiarzv/C#-projects/session-4/even-numbers/obj/Debug/net9.0/even-numbers.dll
+/home/ermiarzv/C#-projects/session-4/even-numbers/obj/Debug/net9.0/refint/even-numbers.dll
+/home/ermiarzv/C#-projects/session-4/even-numbers/obj/Debug/net9.0/even-numbers.pdb
+/home/ermiarzv/C#-projects/session-4/even-numbers/obj/Debug/net9.0/even-numbers.genruntimeconfig.cache
+/home/ermiarzv/C#-projects/session-4/even-numbers/obj/Debug/net9.0/ref/even-numbers.dll

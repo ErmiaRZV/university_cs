@@ -1,0 +1,14 @@
+/home/ermiarzv/C#-projects/session-4/is-two/obj/Debug/net9.0/is-two.GeneratedMSBuildEditorConfig.editorconfig
+/home/ermiarzv/C#-projects/session-4/is-two/obj/Debug/net9.0/is-two.AssemblyInfoInputs.cache
+/home/ermiarzv/C#-projects/session-4/is-two/obj/Debug/net9.0/is-two.AssemblyInfo.cs
+/home/ermiarzv/C#-projects/session-4/is-two/obj/Debug/net9.0/is-two.csproj.CoreCompileInputs.cache
+/home/ermiarzv/C#-projects/session-4/is-two/bin/Debug/net9.0/is-two
+/home/ermiarzv/C#-projects/session-4/is-two/bin/Debug/net9.0/is-two.deps.json
+/home/ermiarzv/C#-projects/session-4/is-two/bin/Debug/net9.0/is-two.runtimeconfig.json
+/home/ermiarzv/C#-projects/session-4/is-two/bin/Debug/net9.0/is-two.dll
+/home/ermiarzv/C#-projects/session-4/is-two/bin/Debug/net9.0/is-two.pdb
+/home/ermiarzv/C#-projects/session-4/is-two/obj/Debug/net9.0/is-two.dll
+/home/ermiarzv/C#-projects/session-4/is-two/obj/Debug/net9.0/refint/is-two.dll
+/home/ermiarzv/C#-projects/session-4/is-two/obj/Debug/net9.0/is-two.pdb
+/home/ermiarzv/C#-projects/session-4/is-two/obj/Debug/net9.0/is-two.genruntimeconfig.cache
+/home/ermiarzv/C#-projects/session-4/is-two/obj/Debug/net9.0/ref/is-two.dll
