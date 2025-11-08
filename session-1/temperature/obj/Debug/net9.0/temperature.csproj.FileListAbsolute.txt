@@ -1,0 +1,14 @@
+/home/ermiarzv/C#-projects/temperature/bin/Debug/net9.0/temperature
+/home/ermiarzv/C#-projects/temperature/bin/Debug/net9.0/temperature.deps.json
+/home/ermiarzv/C#-projects/temperature/bin/Debug/net9.0/temperature.runtimeconfig.json
+/home/ermiarzv/C#-projects/temperature/bin/Debug/net9.0/temperature.dll
+/home/ermiarzv/C#-projects/temperature/bin/Debug/net9.0/temperature.pdb
+/home/ermiarzv/C#-projects/temperature/obj/Debug/net9.0/temperature.GeneratedMSBuildEditorConfig.editorconfig
+/home/ermiarzv/C#-projects/temperature/obj/Debug/net9.0/temperature.AssemblyInfoInputs.cache
+/home/ermiarzv/C#-projects/temperature/obj/Debug/net9.0/temperature.AssemblyInfo.cs
+/home/ermiarzv/C#-projects/temperature/obj/Debug/net9.0/temperature.csproj.CoreCompileInputs.cache
+/home/ermiarzv/C#-projects/temperature/obj/Debug/net9.0/temperature.dll
+/home/ermiarzv/C#-projects/temperature/obj/Debug/net9.0/refint/temperature.dll
+/home/ermiarzv/C#-projects/temperature/obj/Debug/net9.0/temperature.pdb
+/home/ermiarzv/C#-projects/temperature/obj/Debug/net9.0/temperature.genruntimeconfig.cache
+/home/ermiarzv/C#-projects/temperature/obj/Debug/net9.0/ref/temperature.dll
