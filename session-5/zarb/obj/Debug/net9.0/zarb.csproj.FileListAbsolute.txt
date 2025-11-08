@@ -1,0 +1,14 @@
+/home/ermiarzv/C#-projects/session-5/zarb/bin/Debug/net9.0/zarb
+/home/ermiarzv/C#-projects/session-5/zarb/bin/Debug/net9.0/zarb.deps.json
+/home/ermiarzv/C#-projects/session-5/zarb/bin/Debug/net9.0/zarb.runtimeconfig.json
+/home/ermiarzv/C#-projects/session-5/zarb/bin/Debug/net9.0/zarb.dll
+/home/ermiarzv/C#-projects/session-5/zarb/bin/Debug/net9.0/zarb.pdb
+/home/ermiarzv/C#-projects/session-5/zarb/obj/Debug/net9.0/zarb.GeneratedMSBuildEditorConfig.editorconfig
+/home/ermiarzv/C#-projects/session-5/zarb/obj/Debug/net9.0/zarb.AssemblyInfoInputs.cache
+/home/ermiarzv/C#-projects/session-5/zarb/obj/Debug/net9.0/zarb.AssemblyInfo.cs
+/home/ermiarzv/C#-projects/session-5/zarb/obj/Debug/net9.0/zarb.csproj.CoreCompileInputs.cache
+/home/ermiarzv/C#-projects/session-5/zarb/obj/Debug/net9.0/zarb.dll
+/home/ermiarzv/C#-projects/session-5/zarb/obj/Debug/net9.0/refint/zarb.dll
+/home/ermiarzv/C#-projects/session-5/zarb/obj/Debug/net9.0/zarb.pdb
+/home/ermiarzv/C#-projects/session-5/zarb/obj/Debug/net9.0/zarb.genruntimeconfig.cache
+/home/ermiarzv/C#-projects/session-5/zarb/obj/Debug/net9.0/ref/zarb.dll
